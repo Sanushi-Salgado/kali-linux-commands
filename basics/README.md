@@ -27,6 +27,8 @@ ls -la       													# 👀📂 Include hidden files (dotfiles) in detailed
 ls --help    													# ❓ Quick help / usage information for ls command
 man ls       				 									# ❓ Open full manual for the ls command
 pwd                            									# 📍 Show current path / working directory
+
+sudo rm -f <file path>                                          # 🔐🗑️ Delete file with root privileges
 ```
 
 ---
