@@ -18,6 +18,7 @@
 - [GNU Parallel](./gnu-parallel.md) 
 - [Postgre-SQL](./postgre-sql.md) 
 - [Semgrep](./semgrep.md)  
+- [Shodan](./shodan.md)  
 - [Unfurl](./unfurl.md)   
 - [WaybackURLs](./waybackurls.md)  
 
