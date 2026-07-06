@@ -19,6 +19,7 @@
 - [Postgre-SQL](./postgre-sql.md) 
 - [Semgrep](./semgrep.md)  
 - [Shodan](./shodan.md)  
+- [Swagger-CLI](./swagger-cli.md)  
 - [Unfurl](./unfurl.md)   
 - [WaybackURLs](./waybackurls.md)  
 
