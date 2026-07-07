@@ -21,6 +21,7 @@
 - [Postgre-SQL](./postgre-sql.md) 
 - [Semgrep](./semgrep.md)  
 - [Shodan](./shodan.md)  
+- [Subdominator](./subdominator.md)  
 - [Swagger-CLI](./swagger-cli.md)  
 - [Unfurl](./unfurl.md)   
 - [WaybackURLs](./waybackurls.md)  
