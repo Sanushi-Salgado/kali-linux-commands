@@ -9,6 +9,7 @@
 - [AltDNS](./altdns.md)   
 - [Asset Finder](./asset-finder.md) 
 - [Cencli](./cencli.md)       
+- [Cloud Enum](./cloud-enum.md)       
 - [DBeaver](./dbeaver.md)   
 - [Detect-Secrets](./detect-secrets.md)  
 - [DNSGen](./dnsgen.md)  
