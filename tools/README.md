@@ -20,6 +20,7 @@
 - [Gowitness](./gowitness.md)   
 - [KnockKnock](./knock-knock.md)
 - [Postgre-SQL](./postgre-sql.md) 
+- [Retire.js](./retire-js.md)  
 - [Semgrep](./semgrep.md)  
 - [Shodan](./shodan.md)  
 - [Subdominator](./subdominator.md)  
