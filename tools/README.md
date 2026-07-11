@@ -15,6 +15,7 @@
 - [DNSGen](./dnsgen.md)  
 - [DNSx](./dnsx.md)    
 - [Gawk](./gawk.md)   
+- [Github-Endpoints](./github-endpoints.md) 
 - [Github Subdomains](./github-subdomains.md) 
 - [GNU Parallel](./gnu-parallel.md) 
 - [Gowitness](./gowitness.md)   
