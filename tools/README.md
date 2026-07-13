@@ -24,6 +24,7 @@
 - [Retire.js](./retire-js.md)  
 - [Semgrep](./semgrep.md)  
 - [Shodan](./shodan.md)  
+- [SpiderFoot](./spider-foot.md)  
 - [Subdominator](./subdominator.md)  
 - [Swagger-CLI](./swagger-cli.md)  
 - [Unfurl](./unfurl.md)   
