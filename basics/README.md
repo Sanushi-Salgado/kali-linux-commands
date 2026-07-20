@@ -24,6 +24,7 @@ mkdir results && cd results    									# 📂⚡ Create + enter directory
 ls                             									# 👀 List directory contents
 ls -l        													# 📄🔍 Detailed list: permissions, owner, size, timestamp
 ls -la       													# 👀📂 Include hidden files (dotfiles) in detailed view
+ls -la ~ | grep <word>										    # 📄🔍 Find hidden files with specific word (detailed list)
 ls --help    													# ❓ Quick help / usage information for ls command
 man ls       				 									# ❓ Open full manual for the ls command
 pwd                            									# 📍 Show current path / working directory
