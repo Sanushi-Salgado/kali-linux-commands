@@ -5,9 +5,13 @@
 ## 🛠️ Usage
 
 ```bash
-pg_lsclusters                                          # 🛠️ Check PostgreSQL cluster status
+pg_lsclusters												# 🛠️ Check PostgreSQL cluster status
 
-sudo pg_ctlcluster <version> main start                # 🚀 Start the cluster (if it's down)
+sudo pg_ctlcluster <version> main start						# 🚀 Start the cluster (if it's down)
 
-sudo pg_ctlcluster <version> main restart              # 🔄 Restart the cluster
+sudo pg_ctlcluster <version> main restart					# 🔄 Restart the cluster
+
+sudo -u postgres psql -c "\du"								# 👥 List DB roles / users
+
+sudo -u postgres psql -c "\l"								# 📦 List databases
 ```
