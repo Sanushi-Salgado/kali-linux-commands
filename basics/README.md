@@ -74,6 +74,7 @@ cat /etc/os-release  											# 🐧 OS version & distribution details
 
 ```bash
 clear                          									# 🧽 Clear terminal
+hash -r                                                         # 🧽 Clear shell command cache
 history -c && history -w && hash -r								# 🧨 Full cleanup (history reset)
 ```
 
