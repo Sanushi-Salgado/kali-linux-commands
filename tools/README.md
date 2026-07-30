@@ -8,6 +8,7 @@
 
 - [AltDNS](./altdns.md)   
 - [Asset Finder](./asset-finder.md) 
+- [CDN-Check](./cdn-check.md)       
 - [Cencli](./cencli.md)       
 - [Cloud Enum](./cloud-enum.md)       
 - [DBeaver](./dbeaver.md)   
