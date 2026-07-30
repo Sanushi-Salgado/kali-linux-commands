@@ -5,10 +5,9 @@ All commands have been tested on **Kali GNU/Linux Rolling version 2025.4**.
 
 ## 📂 Repo Structure
 
-- [Basics](./basics/README.md)
-	- Core concepts & fundamental commands
-- [Tools](./tools/README.md)
-	- Tools that can be installed in Kali Linux with individual READMEs for each tool
+- [Basics](./basics/README.md) - Core concepts & commands
+	- [Keyboard Shortcuts](./basics/keyboard-shortcuts.md)
+- [Tools](./tools/README.md) - Tools that can be installed in Kali Linux with individual READMEs for each tool
 
 ---
 

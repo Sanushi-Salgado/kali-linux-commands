@@ -179,16 +179,6 @@ sudo nano path/to/file or filename								# 🔐✍️ Edit file via nano as roo
 
 ---
 
-## ⌨️⚡ Keyboard Shortcuts
-
-```bash
-Ctrl + Alt + T 													# 🖥️ Open new terminal 					
-Shift + Insert 													# 📋 Paste          					
-Ctrl + A      													# 🔘 Select all     					
-```
-
----
-
 ## ⚠️ Disclaimer
 > This repository is for **educational purposes only**.  
 > Misuse may result in system damage, data loss, or legal consequences.  
