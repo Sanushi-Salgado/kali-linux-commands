@@ -20,6 +20,7 @@
 - [Github Subdomains](./github-subdomains.md) 
 - [GNU Parallel](./gnu-parallel.md) 
 - [Gowitness](./gowitness.md)   
+- [Httpx](./httpx.md)   
 - [KnockKnock](./knock-knock.md)
 - [Postgre-SQL](./postgre-sql.md) 
 - [Retire.js](./retire-js.md)  
