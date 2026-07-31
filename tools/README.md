@@ -28,6 +28,7 @@
 - [Shodan](./shodan.md)  
 - [SpiderFoot](./spider-foot.md)  
 - [Subdominator](./subdominator.md)  
+- [Subwiz](./subwiz.md)  
 - [Swagger-CLI](./swagger-cli.md)  
 - [Unfurl](./unfurl.md)   
 - [WaybackURLs](./waybackurls.md)  
