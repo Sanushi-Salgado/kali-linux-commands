@@ -33,7 +33,7 @@
 - [Swagger-CLI](./swagger-cli.md)  
 - [Unfurl](./unfurl.md)   
 - [WaybackURLs](./waybackurls.md)  
-
+- [Whois](./whois.md)  
 ---
 
 ## ⚠️ Disclaimer
