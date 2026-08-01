@@ -7,6 +7,7 @@
 ## 📂 Directory Structure
 
 - [AltDNS](./altdns.md)   
+- [AlterX](./alterx.md)   
 - [Asset Finder](./asset-finder.md) 
 - [CDN-Check](./cdn-check.md)       
 - [Cencli](./cencli.md)       
