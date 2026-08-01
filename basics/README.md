@@ -70,6 +70,14 @@ cat /etc/os-release  											# 🐧 OS version & distribution details
 
 ---
 
+## 💻⚙️ Environment Info
+
+```bash
+echo $PATH             											# 📂 Get the PATH environment variable value
+```
+
+---
+
 ## 🧹🧼 Terminal Cleanup
 
 ```bash
