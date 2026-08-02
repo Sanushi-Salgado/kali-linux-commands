@@ -34,6 +34,7 @@
 - [Swagger-CLI](./swagger-cli.md)  
 - [Unfurl](./unfurl.md)   
 - [WaybackURLs](./waybackurls.md)  
+- [WhatWeb](./whatweb.md)  
 - [Whois](./whois.md)  
 ---
 
