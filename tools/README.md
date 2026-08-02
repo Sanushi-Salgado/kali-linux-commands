@@ -26,6 +26,7 @@
 - [KnockKnock](./knock-knock.md)
 - [Postgre-SQL](./postgre-sql.md) 
 - [Retire.js](./retire-js.md)  
+- [Ripgen](./ripgen.md)  
 - [Ripgrep](./ripgrep.md)  
 - [Semgrep](./semgrep.md)  
 - [Shodan](./shodan.md)  
