@@ -33,6 +33,7 @@
 - [Subwiz](./subwiz.md)  
 - [Swagger-CLI](./swagger-cli.md)  
 - [Unfurl](./unfurl.md)   
+- [Wappalyzer](./wappalyzer.md)  
 - [WaybackURLs](./waybackurls.md)  
 - [WhatWeb](./whatweb.md)  
 - [Whois](./whois.md)  
