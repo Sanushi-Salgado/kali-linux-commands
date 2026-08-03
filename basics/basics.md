@@ -6,7 +6,9 @@
 
 ```bash
 ;       														# 🔗 Run multiple commands in one line
+
 &&      														# ✅ Run next command only if previous succeeds
+
 |       														# 🔄➡️ Pipe output from one command into another ex: ls | pwd  
 ```
 
@@ -16,17 +18,29 @@
 
 ```bash
 mkdir															# 📂 Create new directory
+
 cd                             									# 📁➡️ Change directory
+
 cd ..                          									# ⬆️ Move one directory up
+
 cd ../..                       									# ⏫ Move two directories up
+
 cd ~                           									# 🏠 Go to home directory 
+
 mkdir results && cd results    									# 📂⚡ Create + enter directory
+
 ls                             									# 👀 List directory contents
+
 ls -l        													# 📄🔍 Detailed list: permissions, owner, size, timestamp
+
 ls -la       													# 👀📂 Include hidden files (dotfiles) in detailed view
+
 ls -la ~ | grep <word>										    # 📄🔍 Find hidden files with specific word (detailed list)
+
 ls --help    													# ❓ Quick help / usage information for ls command
+
 man ls       				 									# ❓ Open full manual for the ls command
+
 pwd                            									# 📍 Show current path / working directory
 
 sudo rm -f <file path>                                          # 🔐🗑️ Delete file with root privileges
@@ -38,15 +52,25 @@ sudo rm -f <file path>                                          # 🔐🗑️ De
 
 ```bash
 ifconfig                       									# 📡 Show network interfaces & local IP addresses (legacy)
+
 curl ifconfig.me              									# 🌍 Get your public (external) IP address
+
 ip a                            								# 🌐 Show IP addresses & network interfaces (modern)
+
 ping <IP address>             									# 📶 Test connectivity to a specific IP address
+
 ping <domain>            										# 🌍 Test connectivity to a domain name
+
 ping -c 3 <domain>            									# 📊 Send only 3 ping packets
+
 nslookup <domain or subdomain>            					    # 🔍 Get DNS information for a domain
+
 netstat                       									# 🔌 Show active network connections
+
 netstat -tulnp                									# 📊 Show listening ports & services with details
+
 ss -tulnp                      									# ⚡ Faster modern alternative to netstat
+
 traceroute <domain>          									# 🛰️ Trace the path packets take to destination
 ```
 
@@ -56,7 +80,8 @@ traceroute <domain>          									# 🛰️ Trace the path packets take to d
 
 ```bash
 whoami                         									# 🙋 Current user
-id                             									# 🧾 User details (UID, groups)
+
+id                             									# 👤🔍 User details (UID, groups)
 ```
 
 ---
@@ -65,7 +90,10 @@ id                             									# 🧾 User details (UID, groups)
 
 ```bash
 uname -a             											# 🖥️ Kernel + system info
+
 cat /etc/os-release  											# 🐧 OS version & distribution details
+
+ps aux															# ⚙️ Get a list of all running processes on the system
 ```
 
 ---
@@ -82,7 +110,9 @@ echo $PATH             											# 📂 Get the PATH environment variable value
 
 ```bash
 clear                          									# 🧽 Clear terminal
+
 hash -r                                                         # 🧽 Clear shell command cache
+
 history -c && history -w && hash -r								# 🧨 Full cleanup (history reset)
 ```
 
@@ -92,6 +122,7 @@ history -c && history -w && hash -r								# 🧨 Full cleanup (history reset)
 
 ```bash
 sudo command                   									# 👑 Execute as root / superuser
+
 su                             									# 🔄👤 Switch user
 ```
 
@@ -103,10 +134,12 @@ su                             									# 🔄👤 Switch user
 
 ```bash
 sudo apt update 												# 📡 Update system
-sudo apt upgrade or sudo apt upgrade -y 						# ⬆️ Upgrade all packages 
-sudo apt update && sudo apt upgrade -y  						# ⚡ Run above both commands together
-sudo apt install -f 											# 🛠️ Fix broken dependencies & complete pending installations
 
+sudo apt upgrade or sudo apt upgrade -y 						# ⬆️ Upgrade all packages 
+
+sudo apt update && sudo apt upgrade -y  						# ⚡ Run above both commands together
+
+sudo apt install -f 											# 🛠️ Fix broken dependencies & complete pending installations
 ```
 
 ---
@@ -132,7 +165,9 @@ sudo reboot
 
 ```bash
 sudo apt autoremove -y        									# 🧹 Remove unused packages
+
 sudo apt clean                									# 🗑️ Clear local package cache
+
 sudo apt autoclean            									# ♻️ Remove outdated packages
 ```
 
@@ -169,11 +204,17 @@ sudo reboot														# 🔄 Restart system
 
 ```bash
 cat path/to/file or filename                                    # 📜 Display the content of the file in the terminal
+
 cat path/to/file or filename | less                             # 🖼️ Display the content of the file one page at a time (for large files)
+
 cat path/to/file or filename | grep "search_term"               # 🔍 Search for a specific term within the file's content
+
 cat path/to/file or filename > newfile                          # 📥 Copy the content of a file into a new file
+
 cat path/to/file or filename >> existingfile                    # 📤 Append the content of a file to an existing file
+
 cat -n path/to/file or filename                                 # 🔢 Display the content with line numbers
+
 cat -b path/to/file or filename                                 # 🧮 Display the content with line numbers for non-blank lines
 ```
 
@@ -183,6 +224,7 @@ cat -b path/to/file or filename                                 # 🧮 Display t
 
 ```bash
 nano path/to/file or filename 									# ✍️ Edit file via nano
+
 sudo nano path/to/file or filename								# 🔐✍️ Edit file via nano as root
 ```
 
