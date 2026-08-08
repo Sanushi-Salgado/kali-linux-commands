@@ -23,6 +23,7 @@ All commands have been tested on **Kali GNU/Linux Rolling version 2025.4**.
 	- [Asset Finder](./tools/asset-finder.md) 
 	- [CDNCheck](./tools/cdn-check.md)       
 	- [Cencli](./tools/cencli.md)       
+	- [CloudDetect](./tools/cloud-detect.md)       
 	- [Cloud-Enum](./tools/cloud-enum.md)       
 	- [Crt.sh](./tools/crt.sh.md)       
 	- [DBeaver](./tools/dbeaver.md)   
