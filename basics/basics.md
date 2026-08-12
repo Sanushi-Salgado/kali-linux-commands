@@ -159,6 +159,26 @@ sudo apt -y autoclean && \
 sudo reboot
 ```
 
+> ⚠ If the above method fails try the below commands.
+
+```bash
+sudo apt update
+sudo apt --fix-broken install
+sudo dpkg --configure -a
+sudo apt full-upgrade
+```
+
+> ⚠ Run the below command if the last command fails.
+
+```bash
+apt-mark showhold
+```
+
+> Finally run this.
+```bash
+sudo apt autoremove
+```
+
 ---
 
 ### 🧽 Cleanup
