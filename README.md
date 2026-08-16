@@ -1,5 +1,5 @@
 This repository is organized to help you **navigate and use Kali Linux commands and tools efficiently**.
-All commands have been tested on **Kali GNU/Linux Rolling version 2025.4**.
+All commands have been tested on **Kali GNU/Linux Rolling versions 2025.4 & 2026.3**.
 
 ---
 
@@ -48,6 +48,7 @@ All commands have been tested on **Kali GNU/Linux Rolling version 2025.4**.
 	- [Subdominator](./tools/subdominator.md)  
 	- [Subwiz](./tools/subwiz.md)  
 	- [Swagger-CLI](./tools/swagger-cli.md)  
+	- [Tor](./tools/tor.md)  
 	- [Unfurl](./tools/unfurl.md)   
 	- [Wappalyzer](./tools/wappalyzer.md)  
 	- [WaybackURLs](./tools/waybackurls.md)  
