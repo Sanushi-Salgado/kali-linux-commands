@@ -15,5 +15,7 @@ subdominator -h                                   # ❓ Get help / usage informa
 ## 🛠️ Usage
 
 ```bash
+subdominator -ls								  # 📋 Get all sources / providers 
+
 subdominator -d <domain>                          # 🌐 Get subdomains related to a domain
 ```
