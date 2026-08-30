@@ -2,6 +2,16 @@
 
 ---
 
+## ✅ Verification 
+
+```bash
+psql -V														# 🛠️ Get the installed PostgreSQL version
+
+which psql													# 📍 Get the path to the installed PostgreSQL executable
+
+psql --help													# ❓ Get help / usage information for PostgreSQL
+```
+
 ## 🛠️ Usage
 
 ```bash
