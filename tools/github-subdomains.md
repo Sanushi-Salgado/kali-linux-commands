@@ -39,5 +39,7 @@ github-subdomains -h                                          # ❓ Display help
 ## 🛠️ Usage
 
 ```bash
-github-subdomains -d <domain>                                 # 🔍 Find subdomains under the given domain
+github-subdomains -d <domain> -t <GitHub token>		  	      # 🔍 Get subdomains of a given domain
+
+github-subdomains -d <domain>                                 # 🔍 Get subdomains of a given domain (via GITHUB_TOKEN environment variable)
 ```
