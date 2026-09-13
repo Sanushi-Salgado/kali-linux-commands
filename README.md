@@ -25,6 +25,7 @@ All commands have been tested on **Kali GNU/Linux Rolling versions 2025.4 & 2026
 	- [Cencli](./tools/cencli.md)       
 	- [CloudDetect](./tools/cloud-detect.md)       
 	- [Cloud-Enum](./tools/cloud-enum.md)       
+	- [CPE-Search](./tools/cpe-search.md)
 	- [Crt.sh](./tools/crt.sh.md)       
 	- [DBeaver](./tools/dbeaver.md)   
 	- [Detect-Secrets](./tools/detect-secrets.md)  
