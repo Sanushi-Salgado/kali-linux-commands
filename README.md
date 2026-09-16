@@ -44,6 +44,7 @@ All commands have been tested on **Kali GNU/Linux Rolling versions 2025.4 & 2026
 	- [Retire.js](./tools/retire-js.md)  
 	- [Ripgen](./tools/ripgen.md)  
 	- [Ripgrep](./tools/ripgrep.md)  
+	- [Searchsploit](./tools/searchsploit.md)  
 	- [Semgrep](./tools/semgrep.md)  
 	- [Shodan](./tools/shodan.md)  
 	- [SpiderFoot](./tools/spider-foot.md)  
