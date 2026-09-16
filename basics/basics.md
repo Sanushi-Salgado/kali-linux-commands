@@ -93,6 +93,8 @@ uname -a             											# 🖥️ Kernel + system info
 
 cat /etc/os-release  											# 🐧 OS version & distribution details
 
+nproc                                                           # ⚙️ Number of CPUs
+
 ps aux															# ⚙️ Get a list of all running processes on the system
 ```
 
