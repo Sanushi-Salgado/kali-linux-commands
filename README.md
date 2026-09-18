@@ -20,6 +20,7 @@ All commands have been tested on **Kali GNU/Linux Rolling versions 2025.4 & 2026
 - [Tools](./tools) - Tools that can be installed in Kali Linux with individual READMEs for each tool
 	- [AltDNS](./tools/altdns.md)   
 	- [AlterX](./tools/alterx.md)   
+	- [APK-Signer](./tools/apk-signer.md) 
 	- [Asset Finder](./tools/asset-finder.md) 
 	- [CDNCheck](./tools/cdn-check.md)       
 	- [Cencli](./tools/cencli.md)       
