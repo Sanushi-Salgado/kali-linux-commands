@@ -21,6 +21,7 @@ All commands have been tested on **Kali GNU/Linux Rolling versions 2025.4 & 2026
 	- [AltDNS](./tools/altdns.md)   
 	- [AlterX](./tools/alterx.md)   
 	- [APK-Signer](./tools/apk-signer.md) 
+	- [APK-Tool](./tools/apk-tool.md) 
 	- [Asset Finder](./tools/asset-finder.md) 
 	- [CDNCheck](./tools/cdn-check.md)       
 	- [Cencli](./tools/cencli.md)       
