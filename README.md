@@ -18,6 +18,7 @@ All commands have been tested on **Kali GNU/Linux Rolling versions 2025.4 & 2026
 	- [Basics](./basics/basics.md)
 	- [Keyboard Shortcuts](./basics/keyboard-shortcuts.md)
 - [Tools](./tools) - Tools that can be installed in Kali Linux with individual READMEs for each tool
+	- [Aapt](./tools/aapt.md)   
 	- [AltDNS](./tools/altdns.md)   
 	- [AlterX](./tools/alterx.md)   
 	- [APK-Signer](./tools/apk-signer.md) 
