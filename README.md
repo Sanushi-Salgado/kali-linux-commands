@@ -24,6 +24,7 @@ All commands have been tested on **Kali GNU/Linux Rolling versions 2025.4 & 2026
 	- [APK-Signer](./tools/apk-signer.md) 
 	- [APK-Tool](./tools/apk-tool.md) 
 	- [Asset Finder](./tools/asset-finder.md) 
+	- [Bandit](./tools/bandit.md)       
 	- [CDNCheck](./tools/cdn-check.md)       
 	- [Cencli](./tools/cencli.md)       
 	- [CloudDetect](./tools/cloud-detect.md)       
